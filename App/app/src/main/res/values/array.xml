@@ -1,0 +1,1966 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="도시들">
+        <!--item>현재 위치</item-->
+        <item>경기도</item>
+        <item>서울특별시</item>
+        <item>인천광역시</item>
+    </string-array>
+
+    <string-array name="경기도">
+        <item>고양시</item>
+        <item>과천시</item>
+        <item>광명시</item>
+        <item>광주시</item>
+        <item>구리시</item>
+        <item>군포시</item>
+        <item>김포시</item>
+        <item>남양주시</item>
+        <item>부천시</item>
+        <item>성남시</item>
+        <item>수원시</item>
+        <item>시흥시</item>
+        <item>안산시</item>
+        <item>안성시</item>
+        <item>안양시</item>
+        <item>양주시</item>
+        <item>오산시</item>
+        <item>용인시</item>
+        <item>의왕시</item>
+        <item>의정부시</item>
+        <item>파주시</item>
+        <item>평택시</item>
+        <item>하남시</item>
+        <item>화성시</item>
+    </string-array>
+
+    <string-array name = "고양시">
+        <item>덕양구</item>
+        <item>일산동구</item>
+    </string-array>
+
+    <string-array name = "덕양구">
+        <item>수도권제1순환선자유로분기점</item>
+    </string-array>
+
+    <string-array name = "수도권제1순환선자유로분기점">
+        <item>37.6183</item>
+        <item>126.7997</item>
+    </string-array>
+
+    <string-array name = "일산동구">
+        <item>서울문산선본선9</item>
+    </string-array>
+
+    <string-array name = "서울문산선본선9">
+        <item>37.69039</item>
+        <item>126.83607</item>
+    </string-array>
+
+    <string-array name = "과천시">
+        <item>갈현동</item>
+        <item>과천동</item>
+        <item>막계동</item>
+        <item>문원동</item>
+        <item>별양동</item>
+        <item>부림동</item>
+        <item>원문동</item>
+        <item>주암동</item>
+        <item>과천중앙동</item>
+    </string-array>
+
+    <string-array name = "갈현동">
+        <item>과천시통신부대4R하행</item>
+    </string-array>
+
+    <string-array name = "과천시통신부대4R하행">
+        <item>37.41222</item>
+        <item>126.98064</item>
+    </string-array>
+
+    <string-array name = "과천동">
+        <item>과천시관문4R선암4R양재</item>
+    </string-array>
+
+    <string-array name = "과천시관문4R선암4R양재">
+        <item>37.446754</item>
+        <item>126.99563</item>
+    </string-array>
+
+    <string-array name = "막계동">
+        <item>과천시대공원3R대공원IC</item>
+    </string-array>
+
+    <string-array name = "과천시대공원3R대공원IC">
+        <item>37.435772</item>
+        <item>127.006424</item>
+    </string-array>
+
+    <string-array name = "문원동">
+        <item>과천시문원동입구현대상가하행</item>
+        <item>127.006424</item>
+    </string-array>
+
+    <string-array name = "과천시문원동입구현대상가하행">
+        <item>37.429535</item>
+        <item>127.00153</item>
+    </string-array>
+
+    <string-array name = "별양동">
+        <item>과천시도서관3R중앙로</item>
+    </string-array>
+
+    <string-array name = "과천시도서관3R중앙로">
+        <item>37.434284</item>
+        <item>126.99709</item>
+    </string-array>
+
+    <string-array name = "부림동">
+        <item>과천시도서관3R과천성당</item>
+    </string-array>
+
+    <string-array name = "과천시도서관3R과천성당">
+        <item>37.434742</item>
+        <item>126.99703</item>
+    </string-array>
+
+    <string-array name = "원문동">
+        <item>과천시우정병원3R3단지</item>
+    </string-array>
+
+    <string-array name = "과천시우정병원3R3단지">
+        <item>37.420982</item>
+        <item>126.988785</item>
+    </string-array>
+
+    <string-array name = "주암동">
+        <item>과천시우면산로종로하행</item>
+    </string-array>
+
+    <string-array name = "과천시우면산로종로하행">
+        <item>37.455418</item>
+        <item>127.02025</item>
+    </string-array>
+
+    <string-array name = "과천중앙동">
+        <item>과천시교육원3R보광로우정병원</item>
+    </string-array>
+
+    <string-array name = "과천시교육원3R보광로우정병원">
+        <item>37.42407</item>
+        <item>126.988884</item>
+    </string-array>
+
+    <string-array name = "광명시">
+        <item>노온사동</item>
+        <item>소하1동</item>
+        <item>소하동</item>
+        <item>일직동</item>
+        <item>학온동</item>
+    </string-array>
+
+    <string-array name = "노온사동">
+        <item>제2경인선광명</item>
+    </string-array>
+
+    <string-array name = "제2경인선광명">
+        <item>37.439774</item>
+        <item>126.84998</item>
+    </string-array>
+
+    <string-array name = "소하1동">
+        <item>서해안선금천고가교</item>
+    </string-array>
+
+    <string-array name = "서해안선금천고가교">
+        <item>37.43444</item>
+        <item>126.89833</item>
+    </string-array>
+
+    <string-array name = "소하동">
+        <item>수원광명선수원성채터널</item>
+    </string-array>
+
+    <string-array name = "수원광명선수원성채터널">
+        <item>37.427795</item>
+        <item>126.88496</item>
+    </string-array>
+
+    <string-array name = "일직동">
+        <item>제2경인선일직</item>
+    </string-array>
+
+    <string-array name = "제2경인선일직">
+        <item>37.426548</item>
+        <item>126.88362</item>
+    </string-array>
+
+    <string-array name = "학온동">
+        <item>수원광명선남광명JC</item>
+    </string-array>
+
+    <string-array name = "수원광명선남광명JC">
+        <item>37.412083</item>
+        <item>126.857254</item>
+    </string-array>
+
+    <string-array name = "광주시">
+        <item>곤지암읍</item>
+        <item>도척면</item>
+        <item>중부면</item>
+        <item>초월읍</item>
+    </string-array>
+
+    <string-array name = "곤지암읍">
+        <item>중부선곤지암</item>
+    </string-array>
+
+    <string-array name = "중부선곤지암">
+        <item>37.35233</item>
+        <item>127.32107</item>
+    </string-array>
+
+    <string-array name = "도척면">
+        <item>제2중부선진우1육교</item>
+    </string-array>
+
+    <string-array name = "제2중부선진우1육교">
+        <item>37.325092</item>
+        <item>127.3381</item>
+    </string-array>
+
+    <string-array name = "중부면">
+       <item>중부선중부2터널</item>
+    </string-array>
+
+    <string-array name = "중부선중부2터널">
+        <item>37.44028</item>
+        <item>127.28722</item>
+    </string-array>
+
+    <string-array name = "초월읍">
+        <item>중부선늑현육교</item>
+    </string-array>
+
+    <string-array name = "중부선늑현육교">
+        <item>37.36667</item>
+        <item>127.31782</item>
+    </string-array>
+
+    <string-array name = "구리시">
+        <item>갈매동</item>
+        <item>교문동</item>
+        <item>동구동</item>
+        <item>사노동</item>
+        <item>인창동</item>
+        <item>토평동</item>
+    </string-array>
+
+    <string-array name = "갈매동">
+        <item>구리포천선갈매2육교</item>
+    </string-array>
+
+    <string-array name = "구리포천선갈매2육교">
+        <item>37.633026</item>
+        <item>127.12562</item>
+    </string-array>
+
+    <string-array name = "교문동">
+        <item>구리포천선석문령터널동측</item>
+    </string-array>
+
+    <string-array name = "구리포천선석문령터널동측">
+        <item>37.582478</item>
+        <item>127.119545</item>
+    </string-array>
+
+    <string-array name = "동구동">
+        <item>수도원제1순환선구리</item>
+    </string-array>
+
+    <string-array name = "수도원제1순환선구리">
+        <item>37.615597</item>
+        <item>127.141266</item>
+    </string-array>
+
+    <string-array name = "사노동">
+        <item>수도권제1순환선퇴계원</item>
+    </string-array>
+
+    <string-array name = "수도권제1순환선퇴계원">
+        <item>37.63944</item>
+        <item>127.13361</item>
+    </string-array>
+
+    <string-array name = "인창동">
+        <item>수도권제1순환선구리2</item>
+    </string-array>
+
+    <string-array name = "수도권제1순환선구리2">
+        <item>37.608936</item>
+        <item>127.14481</item>
+    </string-array>
+
+    <string-array name = "토평동">
+        <item>수도권제1순환선토평</item>
+    </string-array>
+
+    <string-array name = "수도권제1순환선토평">
+        <item>37.58428</item>
+        <item>127.15663</item>
+    </string-array>
+
+    <string-array name = "군포시">
+        <item>군포2동</item>
+        <item>군포대야동</item>
+        <item>대야미동</item>
+        <item>둔대동</item>
+        <item>부곡동</item>
+        <item>속달동</item>
+        <item>수리동</item>
+    </string-array>
+
+    <string-array name = "군포2동">
+        <item>수원광명선구봉산터널입구수원방향</item>
+    </string-array>
+
+    <string-array name = "수원광명선구봉산터널입구수원방향">
+        <item>37.320873</item>
+        <item>126.92841</item>
+    </string-array>
+
+    <string-array name = "군포대야동">
+        <item>영동선반월터널강릉</item>
+    </string-array>
+
+    <string-array name = "영동선반월터널강릉">
+        <item>37.32745</item>
+        <item>126.88797</item>
+    </string-array>
+
+    <string-array name = "대야미동">
+        <item>영동선군포</item>
+    </string-array>
+
+    <string-array name = "영동선군포">
+        <item>37.32608</item>
+        <item>126.92249</item>
+    </string-array>
+
+    <string-array name = "둔대동">
+        <item>영동선둔대교</item>
+    </string-array>
+
+    <string-array name = "영동선둔대교">
+        <item>37.323696</item>
+        <item>126.89389</item>
+    </string-array>
+
+    <string-array name = "부곡동">
+        <item>영동선동군포</item>
+    </string-array>
+
+    <string-array name = "영동선동군포">
+        <item>37.32861</item>
+        <item>126.94139</item>
+    </string-array>
+
+    <string-array name = "속달동">
+       <item>수원광명선광명수리산1터널</item>
+    </string-array>
+
+    <string-array name = "수원광명선광명수리산1터널">
+        <item>37.343</item>
+        <item>126.91353</item>
+    </string-array>
+
+    <string-array name = "수리동">
+        <item>수원광명선수원수리산1터널</item>
+    </string-array>
+
+    <string-array name = "수원광명선수원수리산1터널">
+        <item>37.345</item>
+        <item>126.91042</item>
+    </string-array>
+
+    <string-array name = "김포시">
+        <item>고촌읍</item>
+        <item>대곶면</item>
+        <item>양촌읍</item>
+    </string-array>
+
+    <string-array name = "고촌읍">
+        <item>수도권제1순환선김포</item>
+    </string-array>
+
+    <string-array name = "수도권제1순환선김포">
+        <item>37.59694</item>
+        <item>126.77417</item>
+    </string-array>
+
+    <string-array name = "대곶면">
+        <item>제2외곽순환선대능2교</item>
+    </string-array>
+
+    <string-array name = "제2외곽순환선대능2교">
+        <item>37.631973</item>
+        <item>126.60257</item>
+    </string-array>
+
+    <string-array name = "양촌읍">
+        <item>제2외곽순환선학운1교</item>
+    </string-array>
+
+    <string-array name = "제2외곽순환선학운1교">
+        <item>37.611546</item>
+        <item>126.608734</item>
+    </string-array>
+
+    <string-array name = "남양주시">
+        <item>도농동</item>
+        <item>별내동</item>
+        <item>별내면</item>
+        <item>삼패동</item>
+        <item>와부읍</item>
+        <item>화도읍</item>
+    </string-array>
+
+    <string-array name = "도농동">
+        <item>수도권제1순환선남양주</item>
+    </string-array>
+
+    <string-array name = "수도권제1순환선남양주">
+        <item>37.602222</item>
+        <item>127.15361</item>
+    </string-array>
+
+    <string-array name = "별내동">
+        <item>구리포천선용암천1교</item>
+    </string-array>
+
+    <string-array name = "구리포천선용암천1교">
+        <item>37.651814</item>
+        <item>127.13253</item>
+    </string-array>
+
+    <string-array name = "별내면">
+        <item>구리포천선남별내IC</item>
+    </string-array>
+
+    <string-array name = "구리포천선남별내IC">
+        <item>37.67359</item>
+        <item>127.13809</item>
+    </string-array>
+
+    <string-array name = "삼패동">
+        <item>서울양양선삼패교</item>
+    </string-array>
+
+    <string-array name = "서울양양선삼패교">
+        <item>37.595654</item>
+        <item>127.21268</item>
+    </string-array>
+
+    <string-array name = "와부읍">
+        <item>서울양양선남양주영업소3</item>
+    </string-array>
+
+    <string-array name = "서울양양선남양주영업소3">
+        <item>37.59958</item>
+        <item>127.24755</item>
+    </string-array>
+
+    <string-array name = "화도읍">
+        <item>서울양양선화도</item>
+    </string-array>
+
+    <string-array name = "서울양양선화도">
+        <item>37.63185</item>
+        <item>127.31104</item>
+    </string-array>
+
+    <string-array name = "부천시">
+        <item>성곡동</item>
+        <item>오정구</item>
+        <item>원미구</item>
+    </string-array>
+
+    <string-array name = "성곡동">
+        <item>경인선도당2</item>
+    </string-array>
+
+    <string-array name = "경인선도당2">
+        <item>37.52122</item>
+        <item>126.8042</item>
+    </string-array>
+
+    <string-array name = "오정구">
+        <item>경인선신월</item>
+    </string-array>
+
+    <string-array name = "경인선신월">
+        <item>37.522476</item>
+        <item>126.81585</item>
+    </string-array>
+
+    <string-array name = "원미구">
+        <item>수도권제1순환선중동</item>
+    </string-array>
+
+    <string-array name = "수도권제1순환선중동">
+        <item>37.5018</item>
+        <item>126.74727</item>
+    </string-array>
+
+    <string-array name = "성남시">
+        <item>분당구</item>
+        <item>수정구</item>
+        <item>중원구</item>
+    </string-array>
+
+    <string-array name = "분당구">
+        <item>수도권제1순환선청계운중교</item>
+    </string-array>
+
+    <string-array name = "수도권제1순환선청계운중교">
+        <item>37.39472</item>
+        <item>127.06944</item>
+    </string-array>
+
+    <string-array name = "수정구">
+        <item>수도권제1순환선판교분기점2</item>
+    </string-array>
+
+    <string-array name = "수도권제1순환선판교분기점2">
+        <item>37.40665</item>
+        <item>127.09706</item>
+    </string-array>
+
+    <string-array name = "중원구">
+        <item>수도권제1순환선성남삼평교2</item>
+    </string-array>
+
+    <string-array name = "수도권제1순환선성남삼평교2">
+        <item>37.418648</item>
+        <item>127.123116</item>
+    </string-array>
+
+    <string-array name = "수원시">
+        <item>권선구</item>
+        <item>영통구</item>
+        <item>장안구</item>
+    </string-array>
+
+    <string-array name = "권선구">
+        <item>수원광명선수원금곡지하차도</item>
+    </string-array>
+
+    <string-array name = "수원광명선수원금곡지하차도">
+        <item>37.26895</item>
+        <item>126.949554</item>
+    </string-array>
+
+    <string-array name = "영통구">
+        <item>용인서울선길마재교</item>
+    </string-array>
+
+    <string-array name = "용인서울선길마재교">
+        <item>37.312046</item>
+        <item>127.05319</item>
+    </string-array>
+
+    <string-array name = "장안구">
+        <item>영동선북수원</item>
+    </string-array>
+
+    <string-array name = "영동선북수원">
+        <item>37.31935</item>
+        <item>126.98878</item>
+    </string-array>
+
+    <string-array name = "시흥시">
+        <item>거모동</item>
+        <item>계수동</item>
+        <item>과림동</item>
+        <item>군자동</item>
+        <item>금이동</item>
+        <item>논곡동</item>
+        <item>시흥대야동</item>
+        <item>매화동</item>
+        <item>목감동</item>
+        <item>방산동</item>
+        <item>안현동</item>
+        <item>월곶동</item>
+        <item>은행동</item>
+        <item>정왕본동</item>
+        <item>조남동</item>
+    </string-array>
+
+    <string-array name = "거모동">
+        <item>영동선군자영업소2</item>
+    </string-array>
+
+    <string-array name = "영동선군자영업소2">
+        <item>37.357937</item>
+        <item>126.779724</item>
+    </string-array>
+
+    <string-array name = "계수동">
+        <item>수도권제1순환선시흥영업소</item>
+    </string-array>
+
+    <string-array name = "수도권제1순환선시흥영업소">
+        <item>37.450726</item>
+        <item>126.80385</item>
+    </string-array>
+
+    <string-array name = "과림동">
+        <item>제2경인선안현분기점2</item>
+    </string-array>
+
+    <string-array name = "제2경인선안현분기점2">
+        <item>37.44003</item>
+        <item>126.82554</item>
+    </string-array>
+
+    <string-array name = "군자동">
+        <item>영동선군자교</item>
+    </string-array>
+
+    <string-array name = "영동선군자교">
+        <item>37.356106</item>
+        <item>126.78532</item>
+    </string-array>
+
+    <string-array name = "금이동">
+        <item>수도권제1순환선금이3교</item>
+    </string-array>
+
+    <string-array name = "수도권제1순환선금이3교">
+        <item>37.408127</item>
+        <item>126.83502</item>
+    </string-array>
+
+    <string-array name = "논곡동">
+        <item>수도권제1순환선금이2교</item>
+    </string-array>
+
+    <string-array name = "수도권제1순환선금이2교">
+        <item>37.392273</item>
+        <item>126.85255</item>
+    </string-array>
+
+    <string-array name = "시흥대야동">
+        <item>수도권제1순환선시흥</item>
+    </string-array>
+
+    <string-array name = "수도권제1순환선시흥">
+        <item>37.45603</item>
+        <item>126.79734</item>
+    </string-array>
+
+    <string-array name = "매화동">
+        <item>수도권제1순환선재너머골</item>
+    </string-array>
+
+    <string-array name = "수도권제1순환선재너머골">
+        <item>37.4195</item>
+        <item>126.82893</item>
+    </string-array>
+
+    <string-array name = "목감동">
+        <item>서해안선목감</item>
+    </string-array>
+
+    <string-array name = "서해안선목감">
+        <item>37.396698</item>
+        <item>126.8714</item>
+    </string-array>
+
+    <string-array name = "방산동">
+        <item>제2경인선신천</item>
+    </string-array>
+
+    <string-array name = "제2경인선신천">
+        <item>37.43028</item>
+        <item>126.78361</item>
+    </string-array>
+
+    <string-array name = "안현동">
+        <item>수도권제1순환선안현분기점</item>
+    </string-array>
+
+    <string-array name = "수도권제1순환선안현분기점">
+        <item>37.436756</item>
+        <item>126.81728</item>
+    </string-array>
+
+    <string-array name = "월곶동">
+        <item>영동선월곶</item>
+    </string-array>
+
+    <string-array name = "영동선월곶">
+        <item>37.387962</item>
+        <item>126.75222</item>
+    </string-array>
+
+    <string-array name = "은행동">
+        <item>제2경인선은행3교</item>
+    </string-array>
+
+    <string-array name = "제2경인선은행3교">
+        <item>37.428627</item>
+        <item>126.79676</item>
+    </string-array>
+
+    <string-array name = "정왕본동">
+        <item>평택시흥선신길교</item>
+    </string-array>
+
+    <string-array name = "평택시흥선신길교">
+        <item>37.34423</item>
+        <item>126.763374</item>
+    </string-array>
+
+    <string-array name = "조남동">
+        <item>수도권제1순환선조남분기점</item>
+    </string-array>
+
+    <string-array name = "수도권제1순환선조남분기점">
+        <item>37.368603</item>
+        <item>126.871956</item>
+    </string-array>
+
+    <string-array name = "안산시">
+        <item>단원구</item>
+        <item>상록구</item>
+    </string-array>
+
+    <string-array name = "단원구">
+        <item>영동선서안산</item>
+    </string-array>
+
+    <string-array name = "영동선서안산">
+        <item>37.351482</item>
+        <item>126.80135</item>
+    </string-array>
+
+    <string-array name = "상록구">
+        <item>영동선안산분기점</item>
+    </string-array>
+
+    <string-array name = "영동선안산분기점">
+        <item>37.344124</item>
+        <item>126.86039</item>
+    </string-array>
+
+    <string-array name = "안성시">
+        <item>공도읍</item>
+        <item>원곡면</item>
+    </string-array>
+
+    <string-array name = "공도읍">
+        <item>평택제천선반제터널</item>
+    </string-array>
+
+    <string-array name = "평택제천선반제터널">
+        <item>37.013893</item>
+        <item>127.17511</item>
+    </string-array>
+
+    <string-array name = "원곡면">
+        <item>경부선안성휴게소서울</item>
+    </string-array>
+
+    <string-array name = "경부선안성휴게소서울">
+        <item>37.06972</item>
+        <item>127.135</item>
+    </string-array>
+
+    <string-array name = "안양시">
+        <item>동안구</item>
+        <item>만안구</item>
+    </string-array>
+
+    <string-array name = "동안구">
+        <item>수도권제1순환선평촌</item>
+    </string-array>
+
+    <string-array name = "수도권제1순환선평촌">
+        <item>37.38049</item>
+        <item>126.97054</item>
+    </string-array>
+
+    <string-array name = "만안구">
+        <item>수도권제1순환선산본</item>
+    </string-array>
+
+    <string-array name = "수도권제1순환선산본">
+        <item>37.37611</item>
+        <item>126.93472</item>
+    </string-array>
+
+    <string-array name = "양주시">
+        <item>장흥면</item>
+    </string-array>
+
+    <string-array name = "장흥면">
+        <item>수도권제1순환선사패터널퇴계원방향</item>
+    </string-array>
+
+    <string-array name = "수도권제1순환선사패터널퇴계원방향">
+        <item>37.721764</item>
+        <item>126.990776</item>
+    </string-array>
+
+    <string-array name = "오산시">
+        <item>내삼미동</item>
+        <item>대원동</item>
+        <item>부산동</item>
+        <item>서랑동</item>
+        <item>세마동</item>
+        <item>신장동</item>
+        <item>오산중앙동</item>
+    </string-array>
+
+    <string-array name = "내삼미동">
+        <item>제2순환선북오산IC</item>
+    </string-array>
+
+    <string-array name = "제2순환선북오산IC">
+        <item>37.18389</item>
+        <item>127.06</item>
+    </string-array>
+
+    <string-array name = "대원동">
+        <item>경부선오산</item>
+    </string-array>
+
+    <string-array name = "경부선오산">
+        <item>37.14222</item>
+        <item>127.08417</item>
+    </string-array>
+
+    <string-array name = "부산동">
+        <item>경부선동탄1교</item>
+    </string-array>
+
+    <string-array name = "경부선동탄1교">
+        <item>37.15928</item>
+        <item>127.08836</item>
+    </string-array>
+
+    <string-array name = "서랑동">
+        <item>제2순환선오산서랑동</item>
+    </string-array>
+
+    <string-array name = "제2순환선오산서랑동">
+        <item>37.170555</item>
+        <item>127.01278</item>
+    </string-array>
+
+    <string-array name = "세마동">
+        <item>평택화성선서오산영업소</item>
+    </string-array>
+
+    <string-array name = "평택화성선서오산영업소">
+        <item>37.183887</item>
+        <item>127.006386</item>
+    </string-array>
+
+    <string-array name = "신장동">
+        <item>제2순환선세교터널서오산1</item>
+    </string-array>
+
+    <string-array name = "제2순환선세교터널서오산1">
+        <item>37.18005</item>
+        <item>127.04552</item>
+    </string-array>
+
+    <string-array name = "오산중앙동">
+        <item>경부선부산동</item>
+    </string-array>
+
+    <string-array name = "경부선부산동">
+        <item>37.15553</item>
+        <item>127.086494</item>
+    </string-array>
+
+    <string-array name = "용인시">
+        <item>기흥구</item>
+        <item>수지구</item>
+        <item>처인구</item>
+    </string-array>
+
+    <string-array name = "기흥구">
+        <item>경부선기흥</item>
+    </string-array>
+
+    <string-array name = "경부선기흥">
+        <item>37.224438</item>
+        <item>127.10278</item>
+    </string-array>
+
+    <string-array name = "수지구">
+        <item>경부선죽전휴게소서울</item>
+    </string-array>
+
+    <string-array name = "경부선죽전휴게소서울">
+        <item>37.33278</item>
+        <item>127.10361</item>
+    </string-array>
+
+    <string-array name = "처인구">
+        <item>경부선진위천교</item>
+    </string-array>
+
+    <string-array name = "경부선진위천교">
+        <item>37.10806</item>
+        <item>127.11528</item>
+    </string-array>
+
+    <string-array name = "의왕시">
+        <item>내손동</item>
+        <item>삼동</item>
+        <item>청계동</item>
+        <item>초평동</item>
+        <item>포일동</item>
+    </string-array>
+
+    <string-array name = "내손동">
+        <item>수도권제1순환선평촌2</item>
+    </string-array>
+
+    <string-array name = "수도권제1순환선평촌2">
+        <item>37.380733</item>
+        <item>126.981476</item>
+    </string-array>
+
+    <string-array name = "삼동">
+        <item>영동선부곡</item>
+    </string-array>
+
+    <string-array name = "영동선부곡">
+        <item>37.323936</item>
+        <item>126.960434</item>
+    </string-array>
+
+    <string-array name = "청계동">
+        <item>수도권제1순환선청계영업소</item>
+    </string-array>
+
+    <string-array name = "수도권제1순환선청계영업소">
+        <item>37.39333</item>
+        <item>127.02722</item>
+    </string-array>
+
+    <string-array name = "초평동">
+        <item>수원광명선수원구봉산터널</item>
+    </string-array>
+
+    <string-array name = "수원광명선수원구봉산터널">
+        <item>37.314228</item>
+        <item>126.930664</item>
+    </string-array>
+
+    <string-array name = "포일동">
+        <item>수도권제1순환선학의분기점</item>
+    </string-array>
+
+    <string-array name = "수도권제1순환선학의분기점">
+        <item>37.38482</item>
+        <item>126.99123</item>
+    </string-array>
+
+    <string-array name = "의정부시">
+        <item>송산1동</item>
+        <item>송산2동</item>
+        <item>장암동</item>
+        <item>호원동</item>
+    </string-array>
+
+    <string-array name = "송산1동">
+       <item>구리포천선동의정부IC북측</item>
+    </string-array>
+
+    <string-array name = "구리포천선동의정부IC북측">
+        <item>37.736042</item>
+        <item>127.11734</item>
+    </string-array>
+
+    <string-array name = "송산2동">
+        <item>구리포천선민락IC</item>
+    </string-array>
+
+    <string-array name = "구리포천선민락IC">
+        <item>37.753323</item>
+        <item>127.12127</item>
+    </string-array>
+
+    <string-array name = "장암동">
+        <item>수도권제1순환선수락터널퇴계원방향</item>
+    </string-array>
+
+    <string-array name = "수도권제1순환선수락터널퇴계원방향">
+        <item>37.692097</item>
+        <item>127.05634</item>
+    </string-array>
+
+    <string-array name = "호원동">
+        <item>수도권제1순환선사패터널일산방향</item>
+    </string-array>
+
+    <string-array name = "수도권제1순환선사패터널일산방향">
+        <item>37.705227</item>
+        <item>127.04277</item>
+    </string-array>
+
+    <string-array name = "파주시">
+        <item>금능동</item>
+        <item>아동동</item>
+        <item>월롱면</item>
+        <item>조리읍</item>
+    </string-array>
+
+    <string-array name = "금능동">
+       <item>서울문산선본선16</item>
+    </string-array>
+
+    <string-array name = "서울문산선본선16">
+        <item>37.748817</item>
+        <item>126.7917</item>
+    </string-array>
+
+    <string-array name = "아동동">
+        <item>서울문산선본선19</item>
+    </string-array>
+
+    <string-array name = "서울문산선본선19">
+        <item>37.757805</item>
+        <item>126.79132</item>
+    </string-array>
+
+    <string-array name = "월롱면">
+        <item>서울문산선본선20</item>
+    </string-array>
+
+    <string-array name = "서울문산선본선20">
+        <item>37.77289</item>
+        <item>126.78513</item>
+    </string-array>
+
+    <string-array name = "조리읍">
+        <item>서울문산선본선15</item>
+    </string-array>
+
+    <string-array name = "서울문산선본선15">
+        <item>37.73612</item>
+        <item>126.79727</item>
+    </string-array>
+
+    <string-array name = "평택시">
+        <item>고덕면</item>
+        <item>모곡동</item>
+        <item>오성면</item>
+        <item>월곡동</item>
+        <item>진위면</item>
+        <item>청룡동</item>
+        <item>청북면</item>
+        <item>포승읍</item>
+    </string-array>
+
+    <string-array name = "고덕면">
+        <item>평택제천선해창교</item>
+    </string-array>
+
+    <string-array name = "평택제천선해창교">
+        <item>37.025883</item>
+        <item>127.01839</item>
+    </string-array>
+
+    <string-array name = "모곡동">
+        <item>평택제천선평택터널</item>
+    </string-array>
+
+    <string-array name = "평택제천선평택터널">
+        <item>37.02887</item>
+        <item>127.076805</item>
+    </string-array>
+
+    <string-array name = "오성면">
+        <item>제2순환선오성</item>
+    </string-array>
+
+    <string-array name = "제2순환선오성">
+        <item>37.017776</item>
+        <item>126.985275</item>
+    </string-array>
+
+    <string-array name = "월곡동">
+        <item>경부선안성휴게소부산</item>
+    </string-array>
+
+    <string-array name = "경부선안성휴게소부산">
+        <item>37.01667</item>
+        <item>127.14417</item>
+    </string-array>
+
+    <string-array name = "진위면">
+        <item>경부선남사육교</item>
+    </string-array>
+
+    <string-array name = "경부선남사육교">
+        <item>37.12583</item>
+        <item>127.09806</item>
+    </string-array>
+
+    <string-array name = "청룡동">
+        <item>평택제천선청룡교</item>
+    </string-array>
+
+    <string-array name = "평택제천선청룡교">
+        <item>37.032665</item>
+        <item>127.12011</item>
+    </string-array>
+
+    <string-array name = "청북면">
+        <item>평택제천선청북</item>
+    </string-array>
+
+    <string-array name = "평택제천선청북">
+        <item>37.045</item>
+        <item>126.984726</item>
+    </string-array>
+
+    <string-array name = "포승읍">
+        <item>서해안선홍원육교</item>
+    </string-array>
+
+    <string-array name = "서해안선홍원육교">
+        <item>37.017963</item>
+        <item>126.871735</item>
+    </string-array>
+
+    <string-array name = "하남시">
+        <item>감일동</item>
+        <item>광암동</item>
+        <item>덕풍2동</item>
+        <item>상산곡동</item>
+        <item>선동</item>
+        <item>천현동</item>
+        <item>초일동</item>
+        <item>춘궁동</item>
+        <item>하산곡동</item>
+    </string-array>
+
+    <string-array name = "감일동">
+        <item>수도권제1순환선서하남상</item>
+    </string-array>
+
+    <string-array name = "수도권제1순환선서하남상">
+        <item>37.51167</item>
+        <item>127.14972</item>
+    </string-array>
+
+    <string-array name = "광암동">
+        <item>수도권제1순환선판교1광암터널판교12</item>
+    </string-array>
+
+    <string-array name = "수도권제1순환선판교1광암터널판교12">
+        <item>37.516785</item>
+        <item>127.17673</item>
+    </string-array>
+
+    <string-array name = "덕풍2동">
+        <item>수도권제1순환선하남분기점</item>
+    </string-array>
+
+    <string-array name = "수도권제1순환선하남분기점">
+        <item>37.5325</item>
+        <item>127.19361</item>
+    </string-array>
+
+    <string-array name = "상산곡동">
+        <item>중부선상산곡교</item>
+    </string-array>
+
+    <string-array name = "중부선상산곡교">
+        <item>37.493755</item>
+        <item>127.23726</item>
+    </string-array>
+
+    <string-array name = "선동">
+        <item>서울양양선미사대교</item>
+    </string-array>
+
+    <string-array name = "서울양양선미사대교">
+        <item>37.583725</item>
+        <item>127.194145</item>
+    </string-array>
+
+    <string-array name = "천현동">
+        <item>중부선하남</item>
+    </string-array>
+
+    <string-array name = "중부선하남">
+        <item>37.528008</item>
+        <item>127.21858</item>
+    </string-array>
+
+    <string-array name = "초일동">
+        <item>수도권제1순환선상일</item>
+    </string-array>
+
+    <string-array name = "수도권제1순환선상일">
+        <item>3737.545723</item>
+        <item>127.18142</item>
+    </string-array>
+
+    <string-array name = "춘궁동">
+        <item>수도권제1순환선광암터널3</item>
+    </string-array>
+
+    <string-array name = "수도권제1순환선광암터널3">
+        <item>37.519165</item>
+        <item>127.18667</item>
+    </string-array>
+
+    <string-array name = "하산곡동">
+        <item>중부선동서울영업소</item>
+    </string-array>
+
+    <string-array name = "중부선동서울영업소">
+        <item>37.51773</item>
+        <item>127.2215</item>
+    </string-array>
+
+    <string-array name = "화성시">
+        <item>동탄면</item>
+        <item>마도면</item>
+        <item>매송면</item>
+        <item>봉담읍</item>
+        <item>비봉면</item>
+        <item>송산면</item>
+        <item>양감면</item>
+        <item>우정읍</item>
+        <item>장덕동</item>
+        <item>장안면</item>
+        <item>정남면</item>
+        <item>팔탄면</item>
+        <item>향남읍</item>
+    </string-array>
+
+    <string-array name = "동탄면">
+        <item>경부선동탄</item>
+    </string-array>
+
+    <string-array name = "경부선동탄">
+        <item>37.20056</item>
+        <item>127.09444</item>
+    </string-array>
+
+    <string-array name = "마도면">
+        <item>평택시흥선청원교</item>
+    </string-array>
+
+    <string-array name = "평택시흥선청원교">
+        <item>37.17963</item>
+        <item>126.7806</item>
+    </string-array>
+
+    <string-array name = "매송면">
+        <item>서해안선매송</item>
+    </string-array>
+
+    <string-array name = "서해안선매송">
+        <item>37.277725</item>
+        <item>126.897415</item>
+    </string-array>
+
+    <string-array name = "봉담읍">
+        <item>평택화성선봉담</item>
+    </string-array>
+
+    <string-array name = "평택화성선봉담">
+        <item>37.229088</item>
+        <item>126.95659</item>
+    </string-array>
+
+    <string-array name = "비봉면">
+        <item>서해안선비봉</item>
+    </string-array>
+
+    <string-array name = "서해안선비봉">
+        <item>37.24347</item>
+        <item>126.88231</item>
+    </string-array>
+
+    <string-array name = "송산면">
+        <item>평택시흥선고정2교</item>
+    </string-array>
+
+    <string-array name = "평택시흥선고정2교">
+        <item>37.25191</item>
+        <item>126.75254</item>
+    </string-array>
+
+    <string-array name = "양감면">
+        <item>평택화성선양감정문리</item>
+    </string-array>
+
+    <string-array name = "평택화성선양감정문리">
+        <item>37.088333</item>
+        <item>126.990555</item>
+    </string-array>
+
+    <string-array name = "우정읍">
+        <item>평택시흥선조암IC</item>
+    </string-array>
+
+    <string-array name = "평택시흥선조암IC">
+        <item>37.12</item>
+        <item>126.817</item>
+    </string-array>
+
+    <string-array name = "장덕동">
+        <item>평택시흥선남양교</item>
+    </string-array>
+
+    <string-array name = "평택시흥선남양교">
+        <item>37.15136</item>
+        <item>126.80288</item>
+    </string-array>
+
+    <string-array name = "장안면">
+        <item>평택시흥선정든교</item>
+    </string-array>
+
+    <string-array name = "평택시흥선정든교">
+        <item>37.06289</item>
+        <item>126.8648</item>
+    </string-array>
+
+    <string-array name = "정남면">
+        <item>평택화성선정남용수교</item>
+    </string-array>
+
+    <string-array name = "평택화성선정남용수교">
+        <item>37.169167</item>
+        <item>126.9975</item>
+    </string-array>
+
+    <string-array name = "팔탄면">
+        <item>서해안선발안</item>
+    </string-array>
+
+    <string-array name = "서해안선발안">
+        <item>37.12342</item>
+        <item>126.88261</item>
+    </string-array>
+
+    <string-array name = "향남읍">
+        <item>서해안선상신2교</item>
+    </string-array>
+
+    <string-array name = "서해안선상신2교">
+        <item>37.083954</item>
+        <item>126.88666</item>
+    </string-array>
+
+    <string-array name = "서울특별시">
+        <item>강동구</item>
+        <item>강서구</item>
+        <item>금천구</item>
+        <item>노원구</item>
+        <item>서초구</item>
+        <item>송파구</item>
+        <item>양천구</item>
+        <item>중랑구</item>
+    </string-array>
+
+    <string-array name = "강동구">
+        <item>강일동</item>
+        <item>고덕2동</item>
+    </string-array>
+
+    <string-array name = "강일동">
+       <item>수도권제1순환선강일육교</item>
+    </string-array>
+
+    <string-array name = "수도권제1순환선강일육교">
+        <item>37.55961</item>
+        <item>127.17496</item>
+    </string-array>
+
+    <string-array name = "고덕2동">
+        <item>수도권제1순환선강일</item>
+    </string-array>
+
+    <string-array name = "수도권제1순환선강일">
+        <item>37.573334</item>
+        <item>127.16556</item>
+    </string-array>
+
+    <string-array name = "강서구">
+        <item>개화동</item>
+        <item>방화동</item>
+    </string-array>
+
+    <string-array name = "개화동">
+        <item>인천국제공항성개화터널입구서울32.2</item>
+    </string-array>
+
+    <string-array name = "인천국제공항성개화터널입구서울32.2">
+        <item>37.584393</item>
+        <item>126.79368</item>
+    </string-array>
+
+    <string-array name = "방화동">
+        <item>인천국제공항선방화대교남단올림픽대로서울34.8</item>
+    </string-array>
+
+    <string-array name = "인천국제공항선방화대교남단올림픽대로서울34.8">
+        <item>37.58458</item>
+        <item>126.82206</item>
+    </string-array>
+
+    <string-array name = "금천구">
+        <item>독산1동</item>
+    </string-array>
+
+    <string-array name = "독산1동">
+        <item>서해안선금천</item>
+    </string-array>
+
+    <string-array name = "서해안선금천">
+        <item>37.45889</item>
+        <item>126.89139</item>
+    </string-array>
+
+    <string-array name = "노원구">
+        <item>상계3.4동</item>
+        <item>상계동</item>
+    </string-array>
+
+    <string-array name = "상계3.4동">
+        <item>수도권제1순환선불암터널퇴계원방향</item>
+    </string-array>
+
+    <string-array name = "수도권제1순환선불암터널퇴계원방향">
+        <item>37.675102</item>
+        <item>127.08818</item>
+    </string-array>
+
+    <string-array name = "상계동">
+        <item>수도권제1순환선수락터널일산방향</item>
+    </string-array>
+
+    <string-array name = "수도권제1순환선수락터널일산방향">
+        <item>37.677387</item>
+        <item>127.08553</item>
+    </string-array>
+
+    <string-array name = "서초구">
+        <item>서초2동</item>
+        <item>신원동</item>
+        <item>양재동</item>
+        <item>원지동</item>
+    </string-array>
+
+    <string-array name = "서초2동">
+        <item>경부선서초</item>
+    </string-array>
+
+    <string-array name = "경부선서초">
+        <item>37.48306</item>
+        <item>127.02583</item>
+    </string-array>
+
+    <string-array name = "신원동">
+        <item>경부선금현동</item>
+    </string-array>
+
+    <string-array name = "경부선금현동">
+        <item>37.432617</item>
+        <item>127.0678</item>
+    </string-array>
+
+    <string-array name = "양재동">
+        <item>경부선양재</item>
+    </string-array>
+
+    <string-array name = "경부선양재">
+        <item>37.461624</item>
+        <item>127.04201</item>
+    </string-array>
+
+    <string-array name = "원지동">
+        <item>경부선상적교</item>
+    </string-array>
+
+    <string-array name = "경부선상적교">
+        <item>37.44556</item>
+        <item>127.05639</item>
+    </string-array>
+
+    <string-array name = "송파구">
+        <item>거여1동</item>
+        <item>장지동</item>
+    </string-array>
+
+    <string-array name = "거여1동">
+       <item>수도권제1순환선거여고가교</item>
+    </string-array>
+
+    <string-array name = "수도권제1순환선거여고가교">
+        <item>37.492916</item>
+        <item>127.13891</item>
+    </string-array>
+
+    <string-array name = "장지동">
+        <item>수도권제1순환선송파</item>
+    </string-array>
+
+    <string-array name = "수도권제1순환선송파">
+        <item>37.475</item>
+        <item>127.12944</item>
+    </string-array>
+
+    <string-array name = "양천구">
+        <item>신월3동</item>
+    </string-array>
+
+    <string-array name = "신월3동">
+        <item>경인선신월2</item>
+    </string-array>
+
+    <string-array name = "경인선신월2">
+        <item>37.524418</item>
+        <item>126.82817</item>
+    </string-array>
+
+    <string-array name = "중랑구">
+        <item>망우동</item>
+        <item>망우본동</item>
+        <item>신내1동</item>
+        <item>신내동</item>
+    </string-array>
+
+    <string-array name = "망우동">
+        <item>구리포천선석문령터널서측</item>
+    </string-array>
+
+    <string-array name = "구리포천선석문령터널서측">
+        <item>37.596603</item>
+        <item>127.11469</item>
+    </string-array>
+
+    <string-array name = "망우본동">
+        <item>구리포천선구리터널관리사무소</item>
+    </string-array>
+
+    <string-array name = "구리포천선구리터널관리사무소">
+        <item>37.607574</item>
+        <item>127.11498</item>
+    </string-array>
+
+    <string-array name = "신내1동">
+        <item>구리포천선중랑IC교</item>
+    </string-array>
+
+    <string-array name = "구리포천선중랑IC교">
+        <item>37.61345</item>
+        <item>127.11427</item>
+    </string-array>
+
+    <string-array name = "신내동">
+        <item>구리포천선양주IC</item>
+    </string-array>
+
+    <string-array name = "구리포천선양주IC">
+        <item>37.615322</item>
+        <item>127.11367</item>
+    </string-array>
+
+    <string-array name = "인천광역시">
+        <item>계양구</item>
+        <item>남구</item>
+        <item>남동구</item>
+        <item>부평구</item>
+        <item>서구</item>
+        <item>연수구</item>
+        <item>중구</item>
+    </string-array>
+
+    <string-array name = "계양구">
+        <item>계양1동</item>
+        <item>병방동</item>
+        <item>서운동</item>
+        <item>작전서운동</item>
+        <item>효성2동</item>
+    </string-array>
+
+    <string-array name = "계양1동">
+        <item>인천국제공항선김포나들목서울30.9</item>
+    </string-array>
+
+    <string-array name = "인천국제공항선김포나들목서울30.9">
+        <item>37.581356</item>
+        <item>126.779465</item>
+    </string-array>
+
+    <string-array name = "병방동">
+        <item>수도권제1순환선계양</item>
+    </string-array>
+
+    <string-array name = "수도권제1순환선계양">
+        <item>37.54679</item>
+        <item>126.74789</item>
+    </string-array>
+
+    <string-array name = "서운동">
+        <item>경인선인천영업소</item>
+    </string-array>
+
+    <string-array name = "경인선인천영업소">
+        <item>37.52411</item>
+        <item>126.747986</item>
+    </string-array>
+
+    <string-array name = "작전서운동">
+        <item>경인선서운분기점2</item>
+    </string-array>
+
+    <string-array name = "경인선서운분기점2">
+        <item>37.52407</item>
+        <item>126.756516</item>
+    </string-array>
+
+    <string-array name = "효성2동">
+        <item>경인선효성</item>
+    </string-array>
+
+    <string-array name = "경인선효성">
+        <item>37.523643</item>
+        <item>126.704765</item>
+    </string-array>
+
+    <string-array name = "남구">
+        <item>문학동</item>
+        <item>용현5동</item>
+        <item>학익1동</item>
+        <item>학익동</item>
+    </string-array>
+
+    <string-array name = "문학동">
+        <item>제2경인선문학</item>
+    </string-array>
+
+    <string-array name = "제2경인선문학">
+        <item>37.43586</item>
+        <item>126.67674</item>
+    </string-array>
+
+    <string-array name = "용현5동">
+        <item>제2경인선제2경인시점</item>
+    </string-array>
+
+    <string-array name = "제2경인선제2경인시점">
+        <item>37.446114</item>
+        <item>126.63242</item>
+    </string-array>
+
+    <string-array name = "학익1동">
+        <item>제2경인선학익대교1</item>
+    </string-array>
+
+    <string-array name = "제2경인선학익대교1">
+        <item>37.438168</item>
+        <item>126.66123</item>
+    </string-array>
+
+    <string-array name = "학익동">
+        <item>제2경인선학익대교</item>
+    </string-array>
+
+    <string-array name = "제2경인선학익대교">
+        <item>37.43832</item>
+        <item>126.66518</item>
+    </string-array>
+
+    <string-array name = "남동구">
+        <item>남촌도림동</item>
+        <item>논현동</item>
+        <item>도림동</item>
+        <item>문수6동</item>
+        <item>만수동</item>
+        <item>서창동</item>
+        <item>장수동</item>
+        <item>장수서창동</item>
+    </string-array>
+
+    <string-array name = "남촌도림동">
+        <item>제2경인선남동</item>
+    </string-array>
+
+    <string-array name = "제2경인선남동">
+        <item>37.433838</item>
+        <item>126.712746</item>
+    </string-array>
+
+    <string-array name = "논현동">
+        <item>영동선서창</item>
+    </string-array>
+
+    <string-array name = "영동선서창">
+        <item>37.417778</item>
+        <item>126.73805</item>
+    </string-array>
+
+    <string-array name = "도림동">
+        <item>영동선논현육교</item>
+    </string-array>
+
+    <string-array name = "영동선논현육교">
+        <item>37.42389</item>
+        <item>126.73743</item>
+    </string-array>
+
+    <string-array name = "만수6동">
+        <item>제2경인선서창분기점</item>
+    </string-array>
+
+    <string-array name = "제2경인선서창분기점">
+        <item>37.432728</item>
+        <item>126.73857</item>
+    </string-array>
+
+    <string-array name = "만수동">
+        <item>영동선서창JC</item>
+    </string-array>
+
+    <string-array name = "영동선서창JC">
+        <item>37.43432</item>
+        <item>126.738785</item>
+    </string-array>
+
+    <string-array name = "서창동">
+        <item>제2경인선남인천</item>
+    </string-array>
+
+    <string-array name = "제2경인선남인천">
+        <item>37.43222</item>
+        <item>126.75611</item>
+    </string-array>
+
+    <string-array name = "장수동">
+        <item>수도권제1순환선인천대공원</item>
+    </string-array>
+
+    <string-array name = "수도권제1순환선인천대공원">
+        <item>37.46151</item>
+        <item>126.763504</item>
+    </string-array>
+
+    <string-array name = "장수서창동">
+        <item>수도권제1순환선장수</item>
+    </string-array>
+
+    <string-array name = "수도권제1순환선장수">
+        <item>37.46442</item>
+        <item>126.75594</item>
+    </string-array>
+
+    <string-array name = "부평구">
+        <item>구산동</item>
+        <item>삼산1동</item>
+        <item>일신동</item>
+        <item>청천1동</item>
+        <item>청천2동</item>
+    </string-array>
+
+    <string-array name = "구산동">
+        <item>수도권제1순환선일신</item>
+    </string-array>
+
+    <string-array name = "수도권제1순환선일신">
+        <item>37.47643</item>
+        <item>126.75266</item>
+    </string-array>
+
+    <string-array name = "삼산1동">
+        <item>수도권제1순환선삼산1</item>
+    </string-array>
+
+    <string-array name = "수도권제1순환선삼산1">
+        <item>37.51879</item>
+        <item>126.75085</item>
+    </string-array>
+
+    <string-array name = "일신동">
+        <item>수도권제1순환선송내</item>
+    </string-array>
+
+    <string-array name = "수도권제1순환선송내">
+        <item>37.48181</item>
+        <item>126.74916</item>
+    </string-array>
+
+    <string-array name = "청천1동">
+        <item>경인선청천교</item>
+    </string-array>
+
+    <string-array name = "경인선청천교">
+        <item>126.69232</item>
+        <item>37.52351</item>
+    </string-array>
+
+    <string-array name = "청천2동">
+        <item>경인선부평</item>
+    </string-array>
+
+    <string-array name = "경인선부평">
+        <item>37.52361</item>
+        <item>126.72167</item>
+    </string-array>
+
+    <string-array name = "서구">
+        <item>가정동</item>
+        <item>검단1동</item>
+        <item>검암경서동</item>
+        <item>경서동</item>
+        <item>오류동</item>
+        <item>원창동</item>
+        <item>청라동</item>
+    </string-array>
+
+    <string-array name = "가정동">
+        <item>경인선가정동</item>
+    </string-array>
+
+    <string-array name = "경인선가정동">
+        <item>37.523174</item>
+        <item>126.68527</item>
+    </string-array>
+
+    <string-array name = "검단1동">
+        <item>제2외곽순환선북청라대교상</item>
+    </string-array>
+
+    <string-array name = "제2외곽순환선북청라대교상">
+        <item>37.57895</item>
+        <item>126.62205</item>
+    </string-array>
+
+    <string-array name = "검암경서동">
+        <item>제2외곽순환선북청라IC</item>
+    </string-array>
+
+    <string-array name = "제2외곽순환선북청라IC">
+        <item>37.559242</item>
+        <item>126.62318</item>
+    </string-array>
+
+    <string-array name = "경서동">
+        <item>제2외곽순환선북청라대교하</item>
+    </string-array>
+
+    <string-array name = "제2외곽순환선북청라대교하">
+        <item>37.544502</item>
+        <item>126.62102</item>
+    </string-array>
+
+    <string-array name = "오류동">
+        <item>제2외곽순환선검단양촌IC</item>
+    </string-array>
+
+    <string-array name = "제2외곽순환선검단양촌IC">
+        <item>37.59751</item>
+        <item>126.62067</item>
+    </string-array>
+
+    <string-array name = "원창동">
+        <item>제2외곽순환선청라원창영업소</item>
+    </string-array>
+
+    <string-array name = "제2외곽순환선청라원창영업소">
+        <item>37.51456</item>
+        <item>126.625496</item>
+    </string-array>
+
+    <string-array name = "청라동">
+        <item>인천국제공항선북인천영업소공항16.0</item>
+    </string-array>
+
+    <string-array name = "인천국제공항선북인천영업소공항16.0">
+        <item>37.555756</item>
+        <item>126.6198</item>
+    </string-array>
+
+    <string-array name = "연수구">
+        <item>선학동</item>
+    </string-array>
+
+    <string-array name = "선학동">
+        <item>제2경인선문학경기장</item>
+    </string-array>
+
+    <string-array name = "제2경인선문학경기장">
+        <item>37.433376</item>
+        <item>126.697464</item>
+    </string-array>
+
+    <string-array name = "중구">
+        <item>신흥동</item>
+        <item>운북동</item>
+        <item>운서동</item>
+        <item>중산동</item>
+        <item>항동7가</item>
+    </string-array>
+
+    <string-array name = "신흥동">
+        <item>제2외곽순환선인천북항터널남측</item>
+    </string-array>
+
+    <string-array name = "제2외곽순환선인천북항터널남측">
+        <item>37.462296</item>
+        <item>126.63263</item>
+    </string-array>
+
+    <string-array name = "운북동">
+        <item>인천국제공항선금산나들목서울6.5</item>
+    </string-array>
+
+    <string-array name = "인천국제공항선금산나들목서울6.5">
+        <item>37.513283</item>
+        <item>126.528755</item>
+    </string-array>
+
+    <string-array name = "운서동">
+        <item>인천국제공항선시점공항0.03</item>
+    </string-array>
+
+    <string-array name = "인천국제공항선시점공항0.03">
+        <item>37.47172</item>
+        <item>126.48542</item>
+    </string-array>
+
+    <string-array name = "중산동">
+        <item>인천국제공항선영종대교시점공항10.1</item>
+    </string-array>
+
+    <string-array name = "인천국제공항선영종대교시점공항10.1">
+        <item>37.53494</item>
+        <item>126.55918</item>
+    </string-array>
+
+    <string-array name = "항동7가">
+        <item>제2외곽순환선인천항고가교남측</item>
+    </string-array>
+
+    <string-array name = "제2외곽순환선인천항고가교남측">
+        <item>37.443333</item>
+        <item>126.62084</item>
+    </string-array>
+
+</resources>

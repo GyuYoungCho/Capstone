@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">비맞은 토리</string>
+    <string name="now_name">현재 위치</string>
+    <string name="select_name">확인</string>
+    <string name="nowCCTV_name">실시간 영상보기</string>
+    <string name="weather_name">현재 날씨</string>
+    <string name="road_name">도로 상황</string>
+    <string name="google_maps_key">AIzaSyCGnuidP1mO8nCm7e73JTbtLqwwLBNaxoo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
